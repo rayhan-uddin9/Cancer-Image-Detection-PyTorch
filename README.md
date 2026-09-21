@@ -20,5 +20,5 @@ gap using Machine Learning.
 - Model: 3-layer CNN
 
 ## 📜 Certificate
-![Certificate](certificate.png)
+![Certificate](https://github.com/rayhan-uddin9/Cancer-Image-Detection-PyTorch/blob/main/Cancer_Image_Detection_Workshop.pdf)
 IBM SkillsNetwork — May 15, 2026
