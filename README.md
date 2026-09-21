@@ -20,4 +20,5 @@ gap using Machine Learning.
 - Model: 3-layer CNN
 
 ## 📜 Certificate
+![Certificate](certificate.png)
 IBM SkillsNetwork — May 15, 2026
